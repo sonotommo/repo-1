@@ -29,4 +29,4 @@ async def info(ctx):
     await ctx.send('chat: what you want to look for')
 
 
-client.run('MTAwMTk2MjkxMTcwNDU2Mzc1Mg.GrFi4e.sWic1Oz20IfWme2HPff9LCOm4lU3mYRyQiArKc')
+client.run('TOKEN')
